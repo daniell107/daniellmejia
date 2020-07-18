@@ -1,0 +1,84 @@
+body{background: #D3D3D3;}
+
+
+
+
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+} 
+
+.info{
+    position: relative;
+    
+    width: 25%;
+    left: 37%;
+    text-align: center;
+}
+
+.fotoDaniel {
+   
+    position: relative;
+    border-radius: 20%;
+    
+    /*margin: 20px;*/ 
+    border: 5px solid black; 
+    left: 42%;
+    
+}
+.proyecto{
+    
+    width: 40%;
+    position: relative;
+    left: 35%;
+}
+
+
+.futbol{
+    position: relative;
+    border-radius: 20%;
+    left: 12%;
+    border: 5px solid black; 
+
+}
+.tFutbol{
+    position: relative;
+    text-align: center;
+    width: 40%;
+    left: 2%;
+
+}
+
+
+.juego{
+    position: relative;
+    border-radius: 20%;
+    left: 65%;
+    bottom: 270px;
+    border: 5px solid black; 
+
+}
+.tJuegos{
+    position: relative;
+    text-align: center;
+    width: 45%;
+    left: 50%;
+    top: -270px;
+
+}
+
+h5{
+    position: relative;
+    bottom: 200px;
+}
+.covid19{
+    position: relative;
+    left:25% ;
+    bottom: 200px;
+}
+
+
+.perfil{
+    position: relative;
+    left: 16cm;
+}
